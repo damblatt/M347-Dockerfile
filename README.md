@@ -2,12 +2,14 @@
 
 ## Vorwort
 
-In diesem Projekt wird ein Image erstellt, welches einen Webserver startet und eine Seite mit den Kontaktdaten des Autors anzeigt.
-
-Das fertige Dockerfile kann [hier](https://github.com/damblatt/M347-Dockerfile/blob/main/Dockerfile) heruntergeladen werden.
-Die fertige index.php Datei kann [hier](https://github.com/damblatt/M347-Dockerfile/blob/main/index.php) heruntergeladen werden.
+In diesem Projekt wird ein Image erstellt, welches einen Webserver startet und eine Webpage mit den Kontaktdaten des Autors anzeigt.
 
 Als Technologie wird Apache im Zusammenspiel mit php8 verwendet.
+
+Die fertigen Dateien können hier heruntergeladen werden:
+
+1. [Dockerfile](https://github.com/damblatt/M347-Dockerfile/blob/main/Dockerfile)
+2. [index.php](https://github.com/damblatt/M347-Dockerfile/blob/main/index.php)
 
 ## Umgebung einrichten
 
