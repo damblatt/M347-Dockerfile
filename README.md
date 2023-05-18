@@ -2,7 +2,8 @@
 
 ## Vorwort
 
-In diesem Projekt wird ein Image erstellt, welches einen Webserver startet und eine Seite mit den Kontaktdaten des Autors anzeigt. 
+In diesem Projekt wird ein Image erstellt, welches einen Webserver startet und eine Seite mit den Kontaktdaten des Autors anzeigt.
+
 Das fertige Dockerfile kann [hier](https://github.com/damblatt/M347-Dockerfile/blob/main/Dockerfile) heruntergeladen werden.
 Die fertige index.php Datei kann [hier](https://github.com/damblatt/M347-Dockerfile/blob/main/index.php) heruntergeladen werden.
 
